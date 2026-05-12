@@ -89,4 +89,4 @@ weather_dashboard/
 ```
 
 ## 👨‍💻 Author
-Made with ❤️ by **[Muhammad Awad](https://github.com/M-Awad-27)**.
+Made by **[Muhammad Awad](https://github.com/M-Awad-27)**.
