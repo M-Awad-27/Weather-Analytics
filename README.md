@@ -6,6 +6,8 @@ This dashboard connects to the **Open-Meteo Archive API** to fetch 5 years of hi
 
 ![Dashboard Preview](https://img.shields.io/badge/UI-Dark_Mode-6C63FF?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=flat-square&logo=streamlit) ![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=flat-square&logo=plotly)
 
+### 🔴 **[Live Demo: Check out the deployed application here!](https://weather-analytics-app1.streamlit.app/)**
+
 ## ✨ Key Features
 
 - **Automated Data Pipeline**: Dynamically fetches data from the Open-Meteo API (no API keys required) and caches it locally as a CSV for instant reloading.
